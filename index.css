@@ -1,0 +1,13 @@
+body {
+  background-image: url("https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/369586611_6741643439230091_2012017400358666695_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=O8GsEkSOCzIQ7kNvgGsbr5h&_nc_zt=23&_nc_ht=scontent.ftbs6-2.fna&_nc_gid=ARL1zQIqd-TBLlvjzx9XO6u&oh=00_AYDiPVHl4YreaT7YbkLl_852YGxmT9d3knirvzvH3eEZug&oe=674BB4A7");
+  background-size: cover;
+  height: 2000px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text1 {
+  color: brown;
+}
